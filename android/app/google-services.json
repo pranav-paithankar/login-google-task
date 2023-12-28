@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "682576760847",
+    "project_id": "login-with--task-437de",
+    "storage_bucket": "login-with--task-437de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682576760847:android:d23dec2e5a6c36f661137a",
+        "android_client_info": {
+          "package_name": "com.example.login_with_google_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682576760847-94amrrdeovesiamd3sdai1pllcjprh5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwj65MUMYkdcvTYMO-lfoIk18vAErs6Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682576760847-94amrrdeovesiamd3sdai1pllcjprh5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682576760847-7dk33rhuhmp7o33b5knt8jbe3ntlq13a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginWithGoogleTask.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
